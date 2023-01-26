@@ -1,0 +1,2 @@
+X:\МДК 01.01 Разработка программных модулей\ПР19\PR19_2_Nikolaev\obj\Debug\PR19_2_Nikolaev.csproj.AssemblyReference.cache
+X:\МДК 01.01 Разработка программных модулей\ПР19\PR19_2_Nikolaev\obj\Debug\PR19_2_Nikolaev.csproj.SuggestedBindingRedirects.cache
