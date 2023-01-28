@@ -1,0 +1,13 @@
+X:\МДК 01.01 Разработка программных модулей\ПР19\PR19_2_Nikolaev\obj\Debug\PR19_2_Nikolaev.csproj.AssemblyReference.cache
+X:\МДК 01.01 Разработка программных модулей\ПР19\PR19_2_Nikolaev\obj\Debug\PR19_2_Nikolaev.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikol\OneDrive\Рабочий стол\NLO-main\PR19_2_Nikolaev\obj\Debug\PR19_2_Nikolaev.csproj.AssemblyReference.cache
+C:\Users\nikol\OneDrive\Рабочий стол\NLO-main\PR19_2_Nikolaev\obj\Debug\PR19_2_Nikolaev.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikol\OneDrive\Рабочий стол\NLO-main\PR19_2_Nikolaev\bin\Debug\PR19_2_Nikolaev.exe.config
+C:\Users\nikol\OneDrive\Рабочий стол\NLO-main\PR19_2_Nikolaev\bin\Debug\PR19_2_Nikolaev.exe
+C:\Users\nikol\OneDrive\Рабочий стол\NLO-main\PR19_2_Nikolaev\bin\Debug\PR19_2_Nikolaev.pdb
+C:\Users\nikol\OneDrive\Рабочий стол\NLO-main\PR19_2_Nikolaev\obj\Debug\PR19_2_Nikolaev.Properties.Resources.resources
+C:\Users\nikol\OneDrive\Рабочий стол\NLO-main\PR19_2_Nikolaev\obj\Debug\PR19_2_Nikolaev.csproj.GenerateResource.cache
+C:\Users\nikol\OneDrive\Рабочий стол\NLO-main\PR19_2_Nikolaev\obj\Debug\PR19_2_Nikolaev.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Рабочий стол\NLO-main\PR19_2_Nikolaev\obj\Debug\PR19_2_Nikolaev.exe
+C:\Users\nikol\OneDrive\Рабочий стол\NLO-main\PR19_2_Nikolaev\obj\Debug\PR19_2_Nikolaev.pdb
+C:\Users\nikol\OneDrive\Рабочий стол\NLO-main\PR19_2_Nikolaev\obj\Debug\PR19_2_Nikolaev.Form1.resources
